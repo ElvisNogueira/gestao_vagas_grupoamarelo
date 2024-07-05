@@ -1,0 +1,4 @@
+br/com/timeamarelo/gestao_vagas/modules/candidate/usecase/ApplyJobCandidateUseCaseTest.class
+br/com/timeamarelo/gestao_vagas/modules/company/controllers/CreateJobControllerTest.class
+br/com/timeamarelo/gestao_vagas/modules/utils/TestUtils.class
+br/com/timeamarelo/gestao_vagas/modules/company/controllers/CreateCompanyControllerTest.class
